@@ -388,6 +388,7 @@ a.nav-link:focus {
   display: flex;
   height: 100vh;
   align-items: center;
+
 }
 .hero-img img {
   display: none;
