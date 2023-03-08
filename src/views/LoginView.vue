@@ -143,7 +143,7 @@ p {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: black;
+  background-color: white;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 5px pink);
