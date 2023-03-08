@@ -64,7 +64,7 @@ form {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: brown;
+  background-color: #F0DBDB;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 5px pink);
@@ -97,7 +97,7 @@ form {
   z-index: 0;
 }
 button.btn {
-  background-color: brown;
+  background-color: #F0DBDB;
   color: black;
   height: 40px;
   padding: 5px;

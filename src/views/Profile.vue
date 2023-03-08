@@ -64,7 +64,7 @@ export default {
   align-items: center;
 }
 /* .display {
-  background-color: brown;
+  background-color: #F0DBDB;
   width: 80vw;
   margin: 20px;
   padding: 10px;
@@ -84,7 +84,7 @@ li {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: brown;
+  background-color: #F0DBDB;
   padding-top: 150px;
 
   /* margin-top: 150px; */

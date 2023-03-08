@@ -128,7 +128,7 @@ export default {
 
 .button-17:hover {
   background: #f6f9fe;
-  color: brown;
+  color: #F0DBDB;
 }
 
 .button-17:active {
@@ -139,7 +139,7 @@ export default {
 
 .button-17:focus {
   outline: none;
-  border: 2px solid brown;
+  border: 2px solid #F0DBDB;
 }
 
 .button-17:not(:disabled) {

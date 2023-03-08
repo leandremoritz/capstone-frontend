@@ -89,7 +89,7 @@ button#btn:hover {
   backdrop-filter: blur(6.7px);
   -webkit-backdrop-filter: blur(6.7px); */
 
-  background-color: brown;
+  background-color: #F0DBDB;
   width: 80vw;
   margin: 20px;
   padding: 10px;
