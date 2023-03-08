@@ -83,7 +83,7 @@ export default {};
 
 <style scoped>
 #about {
-  background-color: brown;
+  background-color: #F0DBDB;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -117,7 +117,7 @@ h5 {
   font-size: 30px;
   background: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(5px);
-  color: brown;
+  color: #F0DBDB;
   padding: 7px;
   border-bottom-left-radius: 30px;
   border-top-right-radius: 30px;

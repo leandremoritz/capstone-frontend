@@ -34,7 +34,7 @@ export default {};
   height: 10vw !important;
 }
 #output {
-  background-color: brown;
+  background-color: #F0DBDB;
   width: 80vw;
   margin: 20px;
   padding-top: 220px;
@@ -87,7 +87,7 @@ p {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: brown;
+  background-color: black;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 5px pink);

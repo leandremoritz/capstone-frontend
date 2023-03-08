@@ -437,7 +437,7 @@ export default {
   text-align: center;
 
   overflow-x: clip;
-  background-color:brown ;
+  background-color:#F0DBDB ;
 }
 
 body {

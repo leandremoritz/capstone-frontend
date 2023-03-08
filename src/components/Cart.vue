@@ -134,7 +134,7 @@ h1 {
 }
 
 #cartbox {
-  background-color: brown;
+  background-color: #F0DBDB;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -147,7 +147,7 @@ h1 {
 
 body {
   overflow-x: hidden;
-  background-color: brown;
+  background-color: #F0DBDB;
   height: 100vh;
 }
 .wrapper {
@@ -204,7 +204,7 @@ h3 {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: brown;
+  background-color: black;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 5px pink);
@@ -239,7 +239,7 @@ h3 {
 
 .button-17:hover {
   background: #f6f9fe;
-  color: brown;
+  color: #F0DBDB;
 }
 
 .button-17:active {
@@ -250,7 +250,7 @@ h3 {
 
 .button-17:focus {
   outline: none;
-  border: 2px solid brown;
+  border: 2px solid #F0DBDB;
 }
 
 .button-17:not(:disabled) {

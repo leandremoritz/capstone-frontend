@@ -132,7 +132,7 @@ span {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(6.7px);
   -webkit-backdrop-filter: blur(6.7px); */
-  background-color: brown;
+  background-color: #F0DBDB;
   border: 1px solid rgba(255, 255, 255, 0.88);
   /* 
   margin: 20px; */
@@ -188,7 +188,7 @@ form input:first-child {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: brown;
+  background-color: black;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 5px pink);

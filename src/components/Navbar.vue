@@ -133,7 +133,7 @@ export default {
 </script>
 <style>
 header#header::before {
-  background-color: #a52a2aad !important;
+  background-color: white !important;
 }
 .menu li {
   margin-top: 1em !important;
@@ -163,7 +163,7 @@ a {
   padding-top: 100px !important;
 }
 nav#nav-bar.navbar {
-  background-color: #a52a2aad;
+  background-color: white;
 }
 #pages {
   font-size: 15px;
@@ -197,7 +197,7 @@ nav#nav-bar.navbar {
     flex-direction: column;
   }
   nav#nav-bar.navbar {
-    background-color: brown;
+    background-color: white;
   }
   .profile-pic {
     margin-top: 50px;

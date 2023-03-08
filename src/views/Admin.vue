@@ -125,7 +125,7 @@ table {
   margin: 3%;
   align-items: center;
   appearance: none;
-  background-color: brown;
+  background-color: black;
   border-radius: 24px;
   border-style: none;
   filter: drop-shadow(0px 0px 1px pink);
@@ -160,7 +160,7 @@ table {
 
 .button-17:hover {
   background: #f6f9fe;
-  color: brown;
+  color: #F0DBDB;
 }
 
 .button-17:active {
@@ -171,7 +171,7 @@ table {
 
 .button-17:focus {
   outline: none;
-  border: 2px solid brown;
+  border: 2px solid #F0DBDB;
 }
 
 .button-17:not(:disabled) {

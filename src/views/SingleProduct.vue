@@ -44,7 +44,7 @@ export default {
 
 <style scoped>
 .single {
-  background-color: brown;
+  background-color: #F0DBDB;
   height: 100vh;
 }
 .arrow {
