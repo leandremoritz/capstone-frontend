@@ -88,12 +88,10 @@ export default {
 #iconn {
   font-size: 50px;
   margin: 10px;
-  filter: drop-shadow(0px 0px 10px white);
 }
 .name {
   font-size: 100px;
   margin: 0 !important;
-  filter: drop-shadow(0px 0px 10px white);
   -webkit-animation: hello 2s infinite alternate;
   animation: hello 2s infinite alternate;
 }
@@ -114,11 +112,9 @@ export default {
 }
 
 img {
-  filter: drop-shadow(0px 10px 3px black);
 }
 .first {
   padding-top: 200px;
-  filter: drop-shadow(20px 20px 5px maroon);
   /* margin-left: 300px; */
 }
 .h3 {
@@ -277,7 +273,6 @@ input[type="checkbox"]:checked ~ .navbar {
   background-color: black;
   border-radius: 24px;
   border-style: none;
-  filter: drop-shadow(0px 0px 5px pink);
   box-sizing: border-box;
   color: white;
   font-weight: bolder;
