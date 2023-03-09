@@ -83,11 +83,7 @@ button#btn:hover {
 }
 
 #output {
-  /* background: rgba(255, 255, 255, 0.06);
-  border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(6.7px);
-  -webkit-backdrop-filter: blur(6.7px); */
+ 
 
   background-color: #F0DBDB;
   width: 80vw;
@@ -146,7 +142,6 @@ p {
   background-color: white;
   border-radius: 24px;
   border-style: none;
-  filter: drop-shadow(0px 0px 5px pink);
   box-sizing: border-box;
   color: white;
   font-weight: bolder;

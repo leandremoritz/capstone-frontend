@@ -246,7 +246,7 @@ export default createStore({
     },
 
     Register: async (context, payload) => {
-      fetch(`https://capstone-backend-qxo4.onrender.com/users/users/add`, {
+      fetch(`https://capstone-backend-qxo4.onrender.com/users/add`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
